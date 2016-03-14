@@ -9,6 +9,9 @@ int main() {
    {
      printf("oung123@hanmail.net");
    }
-
+   else if(num==2)
+   {
+	    printf("01040987933");
+   }
 
 }
